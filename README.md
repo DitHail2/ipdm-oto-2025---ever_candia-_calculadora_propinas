@@ -1,24 +1,4 @@
-Tip Time - Solution Code
-=================================
+Aplicación - Calculadora Propinas terminada
 
-Starter code for the [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course): Tip Time app.
-
-
-Introduction
-------------
-The Tip Time app contains various UI elements for calculating a tip,
-teaching about user input, and State in Compose.
-
-
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+Emulación realizada desde mi propio dispositivo
+![image](https://github.com/user-attachments/assets/8bcee58d-81ec-4486-aed0-2b6245bf0610)
